@@ -4,6 +4,8 @@ def levitation_quiz
 	while answer != "Wingardium Leviosa"
 	puts "What is the spedd that enacts levitation?"
 	answer = gets.chomp
+	end
+	puts "You passed the quiz!"
 	
 end
 
